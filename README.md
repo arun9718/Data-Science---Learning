@@ -1,2 +1,2 @@
 # Data-Science---Learning
-## 1st class of Data Science
+#This tutorial right now covers the basic prereequisutes needed in python for data science
